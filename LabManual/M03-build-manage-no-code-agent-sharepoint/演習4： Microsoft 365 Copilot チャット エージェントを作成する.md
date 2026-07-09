@@ -3,7 +3,7 @@
 
 ### 基本設定
 
-1. Microsoft Edge ブラウザーで **Microsoft 365** のホーム ページ (**https://www.microsoft365.com**) にサインインします。
+1. Microsoft Edge ブラウザーで **https://m365.cloud.microsoft** にサインインします。
 
 1. Microsoft 365 のナビゲーション ウィンドウで **[新しいエージェント]** を選択します。 この操作を行うとエージェント ビルダーが開き、**[新しいエージェント]** ページが表示されます。 
 
